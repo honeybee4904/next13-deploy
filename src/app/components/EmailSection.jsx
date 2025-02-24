@@ -12,7 +12,7 @@ const EmailSection = () => {
       <div className="z-10">
         <h5 className="text-xl font-bold text-white my-2">Connect with Me</h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
-          If you&apos;re looking to bring your system ideas to life, I’m here to help. Whether it’s an IoT solution with Arduino and ESP32, mobile app integration, or a web-based system, I can create a custom solution tailored to your needs. Contact me today to start building your system and turning your vision into reality!
+          If you&apos;re looking to bring your system ideas to life, I&apos;m here to help. Whether it&apos;s an IoT solution with Arduino and ESP32, mobile app integration, or a web-based system, I can create a custom solution tailored to your needs. Contact me today to start building your system and turning your vision into reality!
         </p>
       </div>
       <div className="flex flex-col gap-4 text-white items-start">
